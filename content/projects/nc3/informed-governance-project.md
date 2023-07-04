@@ -14,7 +14,7 @@ Informed Governance Project is currently composed of:
 - the [NIS Incident Notification Platform](https://github.com/informed-governance-project/NISINP)
 
 
-The architecture of the project is describre
+The architecture of the project is describred
 [here](https://github.com/informed-governance-project/architecture).
 
 The [MONARC project](https://github.com/monarc-project) is a part of the Informed Governance Project.
